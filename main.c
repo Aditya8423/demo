@@ -19,6 +19,7 @@ main ()
       scanf("%d",&a[i]);
   }
   for (i=0;i<n;i++)
+  //this is my c program
   {b=a[i];
   r=0;
   while(b>0)
